@@ -1,0 +1,48 @@
+ORCA FLYER
+Credits & Data Sources
+======================
+
+ORCA Flyer integrates publicly available data, imagery, audio, and open-source
+components to support educational visualization and research.
+
+DATA SOURCES
+------------
+Satellite Orbital Data:
+  CelesTrak (https://celestrak.org)
+  Provides publicly accessible orbital element sets for research,
+  education, and non-operational use.
+
+Planetary Constants & Ephemerides:
+  NASA/JPL NAIF SPICE Toolkit
+  https://naif.jpl.nasa.gov
+
+Earth Imagery:
+  NASA Visible Earth
+  https://visibleearth.nasa.gov
+
+Country Flag Images:
+  Derived from public-domain national flags obtained via Flagpedia.net
+  Used solely for identification and educational purposes.
+
+SOFTWARE COMPONENTS
+-------------------
+Panda3D — BSD License (Carnegie Mellon University)
+Skyfield — MIT License
+SpiceyPy — NASA/JPL SPICE Toolkit interface
+NumPy — BSD License
+Rajdhani Font — SIL Open Font License 1.1
+
+AUDIO
+-----
+“Spacial Harvest” — Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons Attribution 4.0
+https://creativecommons.org/licenses/by/4.0/
+No changes were made.
+
+ADDITIONAL ACKNOWLEDGMENTS
+--------------------------
+ORCA Flyer is developed to support space education, visualization,
+and professional instruction.
+
+This software is not affiliated with or endorsed by the United States
+Government, Department of Defense, or United States Space Force.
