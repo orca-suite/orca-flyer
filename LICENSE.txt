@@ -1,0 +1,48 @@
+ORCA FLYER LICENSE
+Proprietary Freeware License
+============================
+
+Copyright (c) 2025–2026 Cameron Cunningham
+All Rights Reserved.
+
+GRANT OF LICENSE
+----------------
+The Author grants you a non-exclusive, non-transferable license to use
+ORCA Flyer ("Software") under the following terms:
+
+PERMITTED USES
+• Personal, educational, research, or governmental use
+• Backup copies for personal use
+• Redistribution of unmodified copies, provided this license is included
+
+RESTRICTIONS
+------------
+You may NOT:
+
+1. Reverse engineer, decompile, or attempt to derive source code.
+2. Modify or create derivative works without written permission.
+3. Sell, sublicense, rent, or use the Software for commercial gain.
+4. Remove copyright or proprietary notices.
+5. Misrepresent authorship or your relationship to the Author.
+
+INTELLECTUAL PROPERTY
+---------------------
+The Software and its design, visuals, and documentation are the intellectual
+property of the Author and protected by applicable copyright laws.
+
+DISCLAIMER OF WARRANTY
+----------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+
+LIMITATION OF LIABILITY
+-----------------------
+THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OR INABILITY
+TO USE THE SOFTWARE.
+
+OFFICIAL STATUS DISCLAIMER
+--------------------------
+This software is an unofficial, independently developed educational tool.
+It is not an official product of the United States Government, Department
+of Defense, or United States Space Force, and no endorsement is implied.
+
+By using this Software, you agree to the terms of this license.
