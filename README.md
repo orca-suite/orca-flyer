@@ -1,2 +1,159 @@
 # orca-flyer
 ORCA Flyer – 3D satellite ride-along viewer for visualizing Earth orbit.
+================================================================================
+ORCA FLYER v0.9.1
+"Orbital Flyer" Edition
+=======================
+
+```
+                Real-Time 3D Satellite Visualization
+          Copyright (c) 2025-2026 Cameron Cunningham
+                     All Rights Reserved
+```
+
+================================================================================
+INTRODUCTION
+============
+
+ORCA Flyer is a comprehensive 3D satellite tracking and visualization
+application built with Python and Panda3D. It provides real-time visualization
+of Earth-orbiting satellites, cislunar spacecraft, and Lagrange point missions.
+
+ORCA Flyer is part of the ORCA Suite of tools for exploring and visualizing the
+space domain.
+
+================================================================================
+FEATURES
+========
+
+SATELLITE TRACKING
+
+* Real-time TLE-based tracking for 12,000+ Earth satellites
+* SPICE ephemeris integration for cislunar spacecraft
+* Lagrange point spacecraft visualization (Sun-L1, Sun-L2, Moon-L1, Moon-L2)
+* Country and constellation filtering
+* Searchable satellite database
+
+VISUALIZATION
+
+* Dynamic 3D Earth with realistic textures
+* Moon position and phase rendering
+* Sun position with atmospheric glow effects
+* Orbital regime color coding (LEO, MEO, GEO, HEO)
+* Satellite "baseball card" information panels
+* Country flags for satellite attribution
+
+LOCATION ANALYSIS
+
+* "What's Overhead?" analysis for any location on Earth
+* 40 pre-loaded major world cities
+* Manual latitude/longitude input
+* Elevation, azimuth, and distance calculations
+* Export analysis results to text file
+
+NAVIGATION
+
+* WASD + mouse camera controls
+* Xbox controller support
+* Edge indicators for off-screen celestial objects
+* Save/load camera view states
+
+================================================================================
+CONTROLS
+========
+
+KEYBOARD:
+W/A/S/D     - Move camera forward/left/back/right
+Q/E         - Roll camera
+Arrow Keys  - Look around
+Scroll      - Zoom in/out
+Space       - Play/Pause time
+Shift       - Cycle simulation speed
+F           - Focus search box
+H           - Toggle controls guide
+L           - Toggle location panel
+Escape      - Close dialogs
+
+MOUSE:
+Left Click  - Select satellite
+Scroll      - Zoom
+
+XBOX CONTROLLER:
+Left Stick  - Move camera
+Right Stick - Look around
+Triggers    - Zoom in/out
+A Button    - Select
+B Button    - Deselect
+Start       - Toggle play/pause
+
+================================================================================
+DATA SOURCES
+============
+
+TLE DATA:
+
+* CelesTrak (celestrak.org)
+* Space-Track (space-track.org)
+
+EPHEMERIS:
+
+* NASA NAIF SPICE kernels
+* JPL planetary ephemerides
+
+TEXTURES:
+
+* NASA Visible Earth
+* Solar System Scope
+
+================================================================================
+REQUIREMENTS
+============
+
+SYSTEM REQUIREMENTS:
+
+* Windows 10 or later
+* Dedicated GPU recommended
+* Xbox controller optional
+
+================================================================================
+CREDITS
+=======
+
+DEVELOPMENT:
+Cameron Cunningham - Lead Developer
+
+SPECIAL THANKS:
+
+* Anthropic Claude - Development assistance
+* NASA/JPL - SPICE toolkit and ephemeris data
+* CelesTrak - TLE data services
+* Panda3D community - Engine and support
+
+================================================================================
+CONTACT
+=======
+
+For non-urgent questions or educational use inquiries, you may contact the
+author at: [orca.flyer.contact@gmail.com](mailto:orca.flyer.contact@gmail.com)
+
+Response is not guaranteed.
+
+================================================================================
+VERSION HISTORY
+===============
+
+v0.9.1 (2026)
+
+* Updated branding to ORCA Flyer
+* Preparation for public GitHub distribution
+
+v0.9.0 (2026) - "Orbital Flyer" Edition
+
+* Initial public release
+* Real-time satellite tracking
+* Cislunar spacecraft visualization
+* Location overhead analysis
+* Xbox controller support
+* Edge indicators for celestial objects
+
+================================================================================
