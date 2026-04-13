@@ -2,6 +2,8 @@
 
 ### *Teach Space. For Free. For Real.*
 
+![Version](https://img.shields.io/badge/version-1.0-blue)
+
 ---
 
 <p align="center">
@@ -13,7 +15,7 @@
 
 ## 🚀 Download ORCA Flyer
 
-👉 **[Download ORCA Flyer v0.9.1 (Windows)](LINK_TO_RELEASE)**
+👉 **[Download ORCA Flyer v1.0 (Windows)](LINK_TO_RELEASE)**
 
 > No installation required. Download → Extract → Run.
 
@@ -21,7 +23,7 @@
 
 ## 🎥 What is this?
 
-**ORCA Flyer** is part of the **ORCA Suite**, developed under **FreeSpace Academy (FSA)**.
+**ORCA Flyer v1.0** is part of the **ORCA Suite**, developed under **FreeSpace Academy (FSA)**.
 
 It allows you to:
 
@@ -29,6 +31,10 @@ It allows you to:
 * Explore Earth orbit, cislunar space, and Lagrange points
 * Analyze what’s overhead from any location on Earth
 * Experience the space domain in an intuitive, interactive way
+
+<!-- Add GIF here later -->
+
+<!-- ![ORCA Demo](your-gif-link.gif) -->
 
 ---
 
@@ -64,7 +70,7 @@ FreeSpace Academy is building a full ecosystem of tools:
 
 # ORCA Flyer – 3D satellite ride-along viewer for visualizing Earth orbit.
 
-ORCA FLYER v0.9.1
+ORCA FLYER v1.0
 "Orbital Flyer" Edition
 =======================
 
@@ -78,12 +84,11 @@ ORCA FLYER v0.9.1
 INTRODUCTION
 ============
 
-ORCA Flyer is a comprehensive 3D satellite tracking and visualization
+ORCA Flyer v1.0 is a comprehensive 3D satellite tracking and visualization
 application built with Python and Panda3D. It provides real-time visualization
 of Earth-orbiting satellites, cislunar spacecraft, and Lagrange point missions.
 
-ORCA Flyer is part of the ORCA Suite of tools for exploring and visualizing the
-space domain.
+ORCA Flyer v1.0 is part of the ORCA Suite — the core toolset of FreeSpace Academy.
 
 ================================================================================
 FEATURES
@@ -204,6 +209,14 @@ Response is not guaranteed.
 ================================================================================
 VERSION HISTORY
 ===============
+
+v1.0 (2026)
+
+* Official v1.0 release of ORCA Flyer
+* First stable public GitHub distribution
+* Integrated into FreeSpace Academy ecosystem
+* Branding and documentation overhaul
+* Foundation for ORCA Suite expansion
 
 v0.9.1 (2026)
 
