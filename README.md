@@ -1,6 +1,69 @@
+# FreeSpace Academy 🛰️
+
+### *Teach Space. For Free. For Real.*
+
+---
+
+<p align="center">
+  <b>No Paywalls. Just Learning.</b><br>
+  Immersive tools for understanding the space domain
+</p>
+
+---
+
+## 🚀 Download ORCA Flyer
+
+👉 **[Download ORCA Flyer v0.9.1 (Windows)](LINK_TO_RELEASE)**
+
+> No installation required. Download → Extract → Run.
+
+---
+
+## 🎥 What is this?
+
+**ORCA Flyer** is part of the **ORCA Suite**, developed under **FreeSpace Academy (FSA)**.
+
+It allows you to:
+
+* Visualize thousands of satellites in real time
+* Explore Earth orbit, cislunar space, and Lagrange points
+* Analyze what’s overhead from any location on Earth
+* Experience the space domain in an intuitive, interactive way
+
+---
+
+## 🧩 The ORCA Suite (Expanding)
+
+FreeSpace Academy is building a full ecosystem of tools:
+
+* 🛰️ **ORCA Flyer** – Domain awareness & visualization *(this repo)*
+* 🧠 **ORCA Designer** – Constellation builder *(coming to GitHub)*
+* 🔴 **ORCA Red** – Adversary simulation *(coming soon)*
+* 📐 **ORCA Orbital Mechanics (OM)** – Fundamentals visualizer *(coming soon)*
+
+---
+
+## ⚡ Quick Start
+
+1. Download ORCA Flyer
+2. Extract the `.zip`
+3. Run the `.exe`
+4. Explore space
+
+---
+
+---
+
+# 🛰️ ORCA FLYER TECHNICAL DOCUMENTATION
+
+*(Detailed reference below)*
+
+---
+
 # orca-flyer
-ORCA Flyer – 3D satellite ride-along viewer for visualizing Earth orbit.
-================================================================================
+
+# ORCA Flyer – 3D satellite ride-along viewer for visualizing Earth orbit.
+
 ORCA FLYER v0.9.1
 "Orbital Flyer" Edition
 =======================
