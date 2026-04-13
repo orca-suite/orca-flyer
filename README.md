@@ -15,7 +15,9 @@
 
 ## 🚀 Download ORCA Flyer
 
-👉 **[Download ORCA Flyer v1.0 (Windows)]([https://github.com/orca-suite/orca-flyer/releases])**
+👉 **[Download ORCA Flyer v1.0 (Windows)](https://github.com/orca-suite/orca-flyer/releases)**
+
+> Click the link above → Select the latest release → Download the `.zip` file.
 
 > No installation required. Download → Extract → Run.
 
